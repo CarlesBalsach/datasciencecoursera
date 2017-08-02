@@ -1,0 +1,9 @@
+---
+title: "HelloWorld"
+author: "Carles Balsach"
+date: "2 August 2017"
+output: html_document
+runtime: shiny
+---
+
+## This is a markdown file
